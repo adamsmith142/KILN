@@ -11,4 +11,9 @@ discretised grid.
 
 Once KsnInversion has completed the channel steepness index calculations, a plot is made using the viridis colour map and the fuction cmapscale (courtesy of Prof. Mark Brandon, Yale), then MATLAB matrices containing the x coordinates, y coordinates and channel steepness values are saved. 
 
+Cite as:
+Smith, A.G.G., Fox, M., Schwanghart, W., and Carter, A., 2022, Comparing methods for calculating channel steepness index: Earth-Science Reviews, v. 227, p. 103970, doi:10.1016/j.earscirev.2022.103970.
+
+Fox, M., 2019, A linear inverse method to reconstruct paleo-topography: Geomorphology, v. 337, p. 151–164, doi:10.1016/j.geomorph.2019.03.034.
+
 
